@@ -1,3 +1,23 @@
+plāns uz 05.08.2019 pikst. 14:00
+
+1. Jēkabs sadarbībā ar Kārli nodemonstrēs VIVADO +viena IP core, +1 testbench
+2. Klāvs kopā ar Kristeru padalīsies ar pirmajām pārdomām par jano plati
+3. Kristers pastāstīs kā atrisināja 01.08 problēmu ar Sourcetree, kā arī kā izdevās saglabāt original repository gan github, gan gitlab
+4. Klāvs visiem atsūtīs linku, video par github, branch, push, pull, merge, u.tml. Savā ziņā labās prakses how-to. 
+
+no Klāva koplietoti 2 documenti (Arm Cortex M un Git) - https://docs.google.com/spreadsheets/d/1Pug154_XR590fsexGJPP0l8M79SS-5e43AuKilQSkxA/edit?ts=5d42b181#gid=0
+
+Introduction and misc playlist of videos	https://www.youtube.com/watch?v=ncTLS6b8fho&list=PLgyFKd2HIZlZkbokF_Cqiag2eUdLSDJbT
+Arm Cortex-M DesignStart FPGA: STEP 1 Connect the board and test	https://www.youtube.com/watch?v=kSaQJGSu-yI
+Arm Cortex-M DesignStart FPGA: STEP 2 Prepare Vivado for Cortex-M development	https://www.youtube.com/watch?v=GqyjiAQs0gM
+Arm Cortex-M DesignStart FPGA: STEP3 Modify the Cortex-M design	https://www.youtube.com/watch?v=wVxhNzONY98
+Arm Cortex-M FPGA DesignStart: STEP 4 Compile software and build new bitstream	https://www.youtube.com/watch?v=fYe4Sp9zHLA
+Arm Cortex-M FPGA DesignStart: STEP 5 Prepare for debug with DAPLink adaptor	https://www.youtube.com/watch?v=DADLvNbnryU
+
+Guide on Git	https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+
+........................
+
 plāns uz 01.08.2019 pikst. 10:00
 1. Romass, Klāvs satiksies ar J.Šati, iesp. 30.07, lai aprunātos un sarunātu detaļas par to kā iegādāties 2gab. devout, xilinx programmātoru, jaunu barošanas mikrokontrolieri, citus aksesuārus
 2. Kristers notestēs vai ar kiCad var strādāt paralēli vismaz no 2 datoriem ar GitHub uz 01.08 nodemonstrēs, pastāstīs par rezultātiem. 
