@@ -1,0 +1,16 @@
+uzaicinu Jūs uz HSCOM ievadsemināru 17.07.2019
+
+Ievadseminārā plānots iepazistināt vienam otru ar ESTCube2 komunikāciju moduli - HSCOM mērķis, HSCOM izstrāde, HSCOM mikrokontrolieris, HSCOM FPGA, HSCOM bāzes stacija
+1. Romass dažos teikumos par HSCOM mērķi
+2. KlāvsK nedaudz ievadam par HSCOM izstrādi
+3. Kārlis nedaudz ievadam par
+3.1. HSCOM FPGA MicroSim 
+3.2. HSCOM USRP GNURadio
+4. Kristers nedaudz ievadam par FPGA pārrakstīšanu, kā arī citiem maziem, bet svarīgiem darbiem - cubsat protokola implementācijas (klienta-servera komunikācijas risinājums)
+
+Prāta vētra par FPGA, esošā risinājuma +/-, alternatīvi FPGA risinājumi, FPGA+SoC, citas idejas!
+
+turpmāk paredzēti vismaz 2 specifiski semināri augustā (savā ziņā zināšanu nodošanas semināri):
+
+1. par FPGA MicroSim (KārlisL)
+2. par USRP GNURadio (KārlisL)
